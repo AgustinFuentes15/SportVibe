@@ -5,13 +5,17 @@ Proyecto para deportes al aire libre
 
 #Integrantes 
   Fuentes Agustín
-  agusfue21@gmail.com
+   _AgustinFuentes15
+   _agusfue21@gmail.com
   Calderón Mayra
-  mayracamila05@gmail.com
+   _MayraCalderon05
+   _mayracamila05@gmail.com
   Cofré Villa Gonzalo 
-  gonzacofreesc@gmail.com 
+   _elyonsu23
+   _gonzacofreesc@gmail.com 
   Torres Sendra Morena
-  mtorressendra@gmail.com
+   _morenats
+   _mtorressendra@gmail.com
 
 [!Caution]
 Todos los derechos reservados
